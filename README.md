@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcin Koźniewski
-- 👀 I’m a researcher/teacher
+- 👀 I’m a researcher/teacher/data analyst/programmer
 
 <!---
 mkozniewski/mkozniewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
